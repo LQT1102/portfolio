@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.d3c7dfa4.chunk.css",
+    "main.js": "/portfolio/static/js/main.3b02eab5.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.3b02eab5.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.6aed4f20.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.6aed4f20.js.map",
+    "static/js/2.c6138d6f.chunk.js": "/portfolio/static/js/2.c6138d6f.chunk.js",
+    "static/js/2.c6138d6f.chunk.js.map": "/portfolio/static/js/2.c6138d6f.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/portfolio/static/css/3.df879eac.chunk.css",
+    "static/js/3.b65dd5ab.chunk.js": "/portfolio/static/js/3.b65dd5ab.chunk.js",
+    "static/js/3.b65dd5ab.chunk.js.map": "/portfolio/static/js/3.b65dd5ab.chunk.js.map",
+    "static/css/4.d7ceb645.chunk.css": "/portfolio/static/css/4.d7ceb645.chunk.css",
+    "static/js/4.aa614797.chunk.js": "/portfolio/static/js/4.aa614797.chunk.js",
+    "static/js/4.aa614797.chunk.js.map": "/portfolio/static/js/4.aa614797.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.097be00824c3a073c15cfabd4734d3f8.js": "/portfolio/precache-manifest.097be00824c3a073c15cfabd4734d3f8.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/portfolio/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.d7ceb645.chunk.css.map": "/portfolio/static/css/4.d7ceb645.chunk.css.map",
+    "static/css/main.d3c7dfa4.chunk.css.map": "/portfolio/static/css/main.d3c7dfa4.chunk.css.map",
+    "static/js/2.c6138d6f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c6138d6f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Logo_Đại_học_Bách_Khoa_Hà_Nội.svg.png": "/portfolio/static/media/Logo_Đại_học_Bách_Khoa_Hà_Nội.svg.d7195f93.png",
+    "static/media/codeInLogo.webp": "/portfolio/static/media/codeInLogo.47a7a717.webp",
+    "static/media/contactMailDark.svg": "/portfolio/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/portfolio/static/media/developerActivity.59389695.svg",
+    "static/media/fptaptechlogo.png": "/portfolio/static/media/fptaptechlogo.aa9941e3.png",
+    "static/media/googleAssistantLogo.webp": "/portfolio/static/media/googleAssistantLogo.e79c6392.webp",
+    "static/media/manOnTable.svg": "/portfolio/static/media/manOnTable.52be3144.svg",
+    "static/media/nextuLogo.webp": "/portfolio/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/pwaLogo.webp": "/portfolio/static/media/pwaLogo.ee62cb58.webp",
+    "static/media/saayaHealthLogo.webp": "/portfolio/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/skill.svg": "/portfolio/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/portfolio/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6aed4f20.js",
+    "static/js/2.c6138d6f.chunk.js",
+    "static/css/main.d3c7dfa4.chunk.css",
+    "static/js/main.3b02eab5.chunk.js"
+  ]
+}
