@@ -107,10 +107,10 @@ const educationInfo = {
   schools: [
     {
       schoolName: "FPT Aptech",
-      logo: require("./assets/images/fpt-aptech-logo.jpg"),
+      logo: require("./assets/images/fptaptechlogo.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2018 - September 2020",
-      desc: "A good programming school in Vietnam about Software Engineering, Web Security, Operating Systems, ..."
+      desc: "A programming school in Vietnam about Software Engineering, Web Security, Operating Systems, ..."
     },
     {
       schoolName: "Hanoi University of Science and Technology",
