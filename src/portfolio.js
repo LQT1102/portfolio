@@ -136,7 +136,7 @@ const techStack = {
     },
     {
       Stack: "Programming",
-      progressPercentage: "60%"
+      progressPercentage: "90%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -195,25 +195,27 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/ai-marketing.png"),
+      projectName: "AMIS aiMarketing",
+      projectDesc:
+        "aiMarketing provides all the necessary tools on a single platform to help businesses deploy Marketing according to an effective, cost-effective Inbound Marketing strategy, attract more potential customers and increase conversions.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "https://amis.misa.vn/amis-aimarketing"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/reth.png"),
+      projectName: "Realms of Ethernity token bridge",
+      projectDesc:
+        "Bridging between the Polygon & Ethereum network brings more versatility to where $RETH tokens can be listed, and gives their owners more choices of where to trade. Simply put the designated $RETH to swap and claim your converted tokens in Ethereum L1 wallet.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "https://swap.realmsofethernity.com/"
         }
       ]
     }
