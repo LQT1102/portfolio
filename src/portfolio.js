@@ -160,18 +160,10 @@ const workExperiences = {
     },
     {
       role: "Software Engineer",
-      company: "Sunteco",
-      companylogo: require("./assets/images/sunteco-logo.jpg"),
-      date: "January 2022 – May 2022",
-      desc: "Develop products about the system to sell cloud services. ",
-      descBullets: ["React JS, Chakra ui, Redux,...", "Node js, My SQL"]
-    },
-    {
-      role: "Software Engineer",
       company: "Wild Thunder studio",
       companylogo: require("./assets/images/wild-thunder-logo.jpg"),
-      date: "May 2022 – present",
-      desc: "Develop web sites connected to web3. ",
+      date: "February 2022 – present",
+      desc: "Develop web sites connected to web3.",
       descBullets: [
         "React JS, Chakra ui, Redux, web3...",
         "Node js, Nest js, My SQL, PostgresQL..."
