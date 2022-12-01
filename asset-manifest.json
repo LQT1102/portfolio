@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.d3c7dfa4.chunk.css",
-    "main.js": "/portfolio/static/js/main.3b02eab5.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.3b02eab5.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.d32e2575.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d32e2575.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.6aed4f20.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.6aed4f20.js.map",
     "static/js/2.c6138d6f.chunk.js": "/portfolio/static/js/2.c6138d6f.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.aa614797.chunk.js": "/portfolio/static/js/4.aa614797.chunk.js",
     "static/js/4.aa614797.chunk.js.map": "/portfolio/static/js/4.aa614797.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.701b32552a281803512e2b13dd64be16.js": "/portfolio/precache-manifest.701b32552a281803512e2b13dd64be16.js",
+    "precache-manifest.ce61ef141dbabb87fd75867e67edbc85.js": "/portfolio/precache-manifest.ce61ef141dbabb87fd75867e67edbc85.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/portfolio/static/css/3.df879eac.chunk.css.map",
     "static/css/4.d7ceb645.chunk.css.map": "/portfolio/static/css/4.d7ceb645.chunk.css.map",
@@ -28,9 +28,8 @@
     "static/media/fptaptechlogo.png": "/portfolio/static/media/fptaptechlogo.aa9941e3.png",
     "static/media/googleAssistantLogo.webp": "/portfolio/static/media/googleAssistantLogo.e79c6392.webp",
     "static/media/manOnTable.svg": "/portfolio/static/media/manOnTable.52be3144.svg",
-    "static/media/nextuLogo.webp": "/portfolio/static/media/nextuLogo.829ad0a1.webp",
     "static/media/pwaLogo.webp": "/portfolio/static/media/pwaLogo.ee62cb58.webp",
-    "static/media/saayaHealthLogo.webp": "/portfolio/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/reth.png": "/portfolio/static/media/reth.6048ec29.png",
     "static/media/skill.svg": "/portfolio/static/media/skill.34409398.svg",
     "static/media/TalkCard.scss": "/portfolio/static/media/talksCardBack.13780cdd.svg"
   },
@@ -38,6 +37,6 @@
     "static/js/runtime-main.6aed4f20.js",
     "static/js/2.c6138d6f.chunk.js",
     "static/css/main.d3c7dfa4.chunk.css",
-    "static/js/main.3b02eab5.chunk.js"
+    "static/js/main.d32e2575.chunk.js"
   ]
 }
