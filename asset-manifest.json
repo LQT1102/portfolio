@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.d3c7dfa4.chunk.css",
-    "main.js": "/portfolio/static/js/main.d32e2575.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.d32e2575.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.6aed4f20.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.6aed4f20.js.map",
-    "static/js/2.c6138d6f.chunk.js": "/portfolio/static/js/2.c6138d6f.chunk.js",
-    "static/js/2.c6138d6f.chunk.js.map": "/portfolio/static/js/2.c6138d6f.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.93ae962d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.93ae962d.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.21592b18.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.21592b18.js.map",
+    "static/js/2.521479b2.chunk.js": "/portfolio/static/js/2.521479b2.chunk.js",
+    "static/js/2.521479b2.chunk.js.map": "/portfolio/static/js/2.521479b2.chunk.js.map",
     "static/css/3.df879eac.chunk.css": "/portfolio/static/css/3.df879eac.chunk.css",
-    "static/js/3.b65dd5ab.chunk.js": "/portfolio/static/js/3.b65dd5ab.chunk.js",
-    "static/js/3.b65dd5ab.chunk.js.map": "/portfolio/static/js/3.b65dd5ab.chunk.js.map",
+    "static/js/3.6c3aed2b.chunk.js": "/portfolio/static/js/3.6c3aed2b.chunk.js",
+    "static/js/3.6c3aed2b.chunk.js.map": "/portfolio/static/js/3.6c3aed2b.chunk.js.map",
     "static/css/4.d7ceb645.chunk.css": "/portfolio/static/css/4.d7ceb645.chunk.css",
-    "static/js/4.aa614797.chunk.js": "/portfolio/static/js/4.aa614797.chunk.js",
-    "static/js/4.aa614797.chunk.js.map": "/portfolio/static/js/4.aa614797.chunk.js.map",
+    "static/js/4.19b97bbb.chunk.js": "/portfolio/static/js/4.19b97bbb.chunk.js",
+    "static/js/4.19b97bbb.chunk.js.map": "/portfolio/static/js/4.19b97bbb.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.ce61ef141dbabb87fd75867e67edbc85.js": "/portfolio/precache-manifest.ce61ef141dbabb87fd75867e67edbc85.js",
+    "precache-manifest.8935708edabd94ffd9fca885163cb9cc.js": "/portfolio/precache-manifest.8935708edabd94ffd9fca885163cb9cc.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/portfolio/static/css/3.df879eac.chunk.css.map",
     "static/css/4.d7ceb645.chunk.css.map": "/portfolio/static/css/4.d7ceb645.chunk.css.map",
     "static/css/main.d3c7dfa4.chunk.css.map": "/portfolio/static/css/main.d3c7dfa4.chunk.css.map",
-    "static/js/2.c6138d6f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c6138d6f.chunk.js.LICENSE.txt",
+    "static/js/2.521479b2.chunk.js.LICENSE.txt": "/portfolio/static/js/2.521479b2.chunk.js.LICENSE.txt",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Logo_Đại_học_Bách_Khoa_Hà_Nội.svg.png": "/portfolio/static/media/Logo_Đại_học_Bách_Khoa_Hà_Nội.svg.d7195f93.png",
     "static/media/codeInLogo.webp": "/portfolio/static/media/codeInLogo.47a7a717.webp",
@@ -34,9 +34,9 @@
     "static/media/TalkCard.scss": "/portfolio/static/media/talksCardBack.13780cdd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6aed4f20.js",
-    "static/js/2.c6138d6f.chunk.js",
+    "static/js/runtime-main.21592b18.js",
+    "static/js/2.521479b2.chunk.js",
     "static/css/main.d3c7dfa4.chunk.css",
-    "static/js/main.d32e2575.chunk.js"
+    "static/js/main.93ae962d.chunk.js"
   ]
 }
